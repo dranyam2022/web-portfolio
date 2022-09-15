@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth !important;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive !important;
+}
+
+h5 {
+    font-family: 'Josefin Sans', sans-serif !important;
+}
+
+.navbar-dark {
+    background-color: rgba(0, 0, 0, .6) !important;
+}
+
+#wrapper-nav-main {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-position: center;
+}
+
+#section-about {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+
+#wrapper-about {
+    background-color: rgba(0, 0, 0, .6) !important;
+}
+
+#profile-photo {
+    width: 100px;
+    border-radius: 60%;
+}
+
+#portfolio {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-size: contain;
+    background-position: center;
+}
+
+#contacts {
+    background-image: url("./images/black-red-bulb.jpg");
+    background-position: center;
+}
