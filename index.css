@@ -50,3 +50,7 @@ h5 {
     background-image: url("./images/black-red-bulb.jpg");
     background-position: center;
 }
+
+#logo-01 {
+    font-family: 'Amatic SC', cursive !important;
+}
